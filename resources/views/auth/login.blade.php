@@ -9,11 +9,11 @@
 <body class="bg-ferrovia-bg flex items-center justify-center min-h-screen">
 
     <div class="bg-ferrovia-surface p-10 rounded-xl shadow-lg w-full max-w-md border border-gray-100">
-        <div class="text-center mb-8">
-            <img src="{{ asset('images/logo.png') }}" alt="Logotipo Ferrovia" class="w-20 h-20 object-contain mx-auto mb-4">
-
-            <h1 class="text-2xl font-bold text-gray-800 italic">FERROVIA</h1>
-            <p class="text-gray-500 text-sm">Sistema de Estimación en Tiempo Real</p>
+        <div class="h-16 flex items-center px-6 border-b border-gray-100">
+            <div class="w-8 h-8 bg-ferrovia-blue rounded flex items-center justify-center mr-3 shadow-sm">
+                <span class="text-white font-bold text-lg">F</span>
+            </div>
+            <span class="text-xl font-bold text-gray-800 italic tracking-wide">FERROVIA</span>
         </div>
 
         <form action="{{ route('login.post') }}" method="POST" class="space-y-6">
@@ -37,7 +37,7 @@
         </form>
 
         <p class="text-center text-xs text-gray-400 mt-8 uppercase tracking-widest">
-            Control de Tráfico Suburbano v1.0
+            Control de Tráfico Ferroviario v1.0
         </p>
     </div>
 

@@ -44,10 +44,10 @@
                 <div>
                     <div class="flex justify-between text-sm mb-1">
                         <span class="font-medium text-gray-700">Memoria RAM</span>
-                        <span class="text-gray-600">42GB / 64GB</span>
+                        <span class="text-gray-600">420GB / 832GB</span>
                     </div>
                     <div class="w-full bg-gray-200 rounded-full h-2">
-                        <div class="bg-yellow-400 h-2 rounded-full" style="width: 65%"></div>
+                        <div class="bg-yellow-400 h-2 rounded-full" style="width: 51%"></div>
                     </div>
                 </div>
 
@@ -91,17 +91,17 @@
                 <div>
                     <div class="flex justify-between text-sm mb-1">
                         <span class="font-medium text-gray-700">Memoria RAM</span>
-                        <span class="text-gray-600">14GB / 16GB</span>
+                        <span class="text-gray-600">192GB / 640GB</span>
                     </div>
                     <div class="w-full bg-gray-200 rounded-full h-2">
-                        <div class="bg-red-400 h-2 rounded-full" style="width: 87%"></div>
+                        <div class="bg-red-400 h-2 rounded-full" style="width: 30%"></div>
                     </div>
                 </div>
 
                 <div class="grid grid-cols-2 gap-4 mt-4 pt-4 border-t border-gray-100 text-sm">
                     <div>
                         <span class="block text-gray-400 text-xs">Sistema Operativo</span>
-                        <span class="font-medium text-gray-800">Arch Linux</span>
+                        <span class="font-medium text-gray-800">Ubuntu Server 24.04</span>
                     </div>
                     <div>
                         <span class="block text-gray-400 text-xs">Uptime</span>
@@ -137,17 +137,17 @@
                 <div>
                     <div class="flex justify-between text-sm mb-1">
                         <span class="font-medium text-gray-700">Memoria RAM</span>
-                        <span class="text-gray-600">2GB / 8GB</span>
+                        <span class="text-gray-600">60GB / 100GB</span>
                     </div>
                     <div class="w-full bg-gray-200 rounded-full h-2">
-                        <div class="bg-ferrovia-neon h-2 rounded-full" style="width: 25%"></div>
+                        <div class="bg-ferrovia-neon h-2 rounded-full" style="width: 60%"></div>
                     </div>
                 </div>
 
                 <div class="grid grid-cols-2 gap-4 mt-4 pt-4 border-t border-gray-100 text-sm">
                     <div>
                         <span class="block text-gray-400 text-xs">Sistema Operativo</span>
-                        <span class="font-medium text-gray-800">Alpine Linux</span>
+                        <span class="font-medium text-gray-800">Ubuntu Server 24.04</span>
                     </div>
                     <div>
                         <span class="block text-gray-400 text-xs">Uptime</span>

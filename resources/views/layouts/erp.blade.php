@@ -12,7 +12,10 @@
         
         <aside class="w-64 bg-ferrovia-surface border-r border-gray-200 flex flex-col shadow-sm">
             <div class="h-16 flex items-center px-6 border-b border-gray-100">
-                <img src="{{ asset('Ferrovia.jpeg') }}" alt="Logotipo Ferrovia" class="w-8 h-8 object-contain mr-3">
+                <div class="w-8 h-8 bg-ferrovia-blue rounded flex items-center justify-center mr-3 shadow-sm">
+                    <span class="text-white font-bold text-lg">F</span>
+                </div>
+                <span class="text-xl font-bold text-gray-800 italic tracking-wide">FERROVIA</span>
             </div>
 
             <nav class="flex-1 px-4 py-6 space-y-2 overflow-y-auto">
