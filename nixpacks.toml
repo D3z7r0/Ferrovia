@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ['npm install && npm run build', 'composer install --no-dev']
+
+[phases.setup]
+nixPkgs = ['php84', 'nodejs', 'npm']
